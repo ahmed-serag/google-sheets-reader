@@ -1,0 +1,24 @@
+{
+  "name": "google-sheets-reader",
+  "version": "1.0.0",
+  "description": "read google sheets data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-serag/google-sheets-reader.git"
+  },
+  "author": "Ahmed serag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-serag/google-sheets-reader/issues"
+  },
+  "homepage": "https://github.com/ahmed-serag/google-sheets-reader#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "google-spreadsheet": "^3.1.15"
+  }
+}
