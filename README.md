@@ -8,9 +8,9 @@ Node script to read private google sheet
 
 - Create a google console project 
 
-- Enable google sheets API on the project from this [link](https://console.developers.google.com/apis/api/sheets.googleapis.com/overview)
+- Enable google sheets API on the project from this [link](https://console.cloud.google.com/apis/library/sheets.googleapis.com)
 
-- Enable google Drive API from this [link](https://console.developers.google.com/apis/api/drive.googleapis/overview)
+- Enable google Drive API from this [link](https://console.cloud.google.com/marketplace/product/google/drive.googleapis.com)
 
 - Create a service account to access the google sheets from this [link](https://console.cloud.google.com/iam-admin/serviceaccounts)
 
